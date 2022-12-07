@@ -110,4 +110,3 @@ if __name__ == "__main__":
 
     print(f"Day7 Part 1:{total}")
     print(f"Day7 Part 2:{min(suitable)}")
-
